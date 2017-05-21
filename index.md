@@ -1,10 +1,12 @@
 ---
 layout: home
 ---
-# About Theme
+# About me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+I'm a Software Engineer student. I'm a programming enthusiast, specifically web technologies and I'm constantly learning.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+Currently, I'm a full stack developer working with Node.js and vanilla javascript in the UX department at 'El Corte Ingles'.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+In my free time I'm expanding my knowledge of functinal programming and Algorithm.
+
+But not everything is about programming! I enjoy learning foreign languages, reading books and playing videogames :)
