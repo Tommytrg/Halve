@@ -3,7 +3,7 @@ layout: home
 ---
 # About me
 
-I'm a Software Engineer student. I'm a programming enthusiast, specifically web technologies and I'm constantly learning.
+I'm a Software Developer. I'm a programming enthusiast, specifically web technologies and I'm constantly learning.
 
 Currently, I'm a full stack developer working with Node.js and vanilla javascript in the UX department at 'El Corte Ingles'.
 
